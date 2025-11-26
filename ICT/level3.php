@@ -117,7 +117,7 @@
             inset 0 0 50px rgba(139, 0, 0, 0.2);
         max-width: 600px;
         width: 100%;
-        margin-top: 25px;
+        margin: 25px auto;
         animation: fadeIn 0.6s ease;
         border: 4px solid #8b0000;
     }
@@ -521,4 +521,5 @@ document.addEventListener('keypress', function(e) {
 });
 </script>
 </body>
+
 </html>
